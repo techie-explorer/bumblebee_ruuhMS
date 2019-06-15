@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ruuhvoicebot",
+  "private_key_id": "cd1cb84b95469a398d53511d0bbad48412750ecb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDfWWS4J2UmP1H3\n6pGTMVQqyd5Orb+mcvdOX6LcamAT4hboBzyrIHgnWOK3AbcKkNEF7I2bwewqYXOP\n0LKyUo/7ClSpSUlJFvDY8M1MJezCmpKtRPlJMMAtInnCfGoO8shAi1peNLuyTF6k\nUQRF9ek/NMm8/quztLn98wOosMlBsz8oWDb0tYuqWP+/62V2YaFR2mmRnI4o64/H\nn6JiI8XQqyFv1OpzDCmOntjBI9XP1tRN4ya77Jyz+TmanvBbYzvmcHFhWjVXTTut\nXqVJojfIeKwVyAx3Ct+kx7n5NVExI1Ce/kbRla7jJCvY/jeEBeXOof4lw3y1O6Nr\nxhn4inXdAgMBAAECggEAEQ1+eOf7G1M40yyr7jjVNAojKM8vw4niE3AOW3Vcvg/k\nT1VkHq21Ns3cy3u8Sbh6WRExU6vX9/lmTRvyVNakaxakFaPEjmnLvEiQaCi6HbaX\nDdcnEF1CQv/vm3eL0nXbb8AkB27PyOJ3VGTiJmRK6XpCj+VC307kZ30DMcFDsHoW\nSCoKoCHfLhVFowzaK0x8czBHQxYc6OVBYQBxvdzqHMpjnwXuX43kdwxKPWn0T52z\nZrtJTdxZ6MTap8IUilmHKtTpMggqWTPY4qE7ElN7APMTyyR6XQFw0APrxz025O3A\na1L/1uhLtVJ0p1r9qOeHaKFalzqzULQlquv9VVwP4QKBgQD2JPQbqn1kujpE5AIB\nJl4ZTVB/mdNtTaaPiYwgywRAjjiqVJEO7+yy8UfgS2q6V7/eC58Eu11IEI4ir5Z5\nIh26hDZacJw25Q9agx2Hnd3x69AdDVEXCc3iCGb7vB9naXwadOAh5LX6DnijE1K5\na3nI0Gz9h/1wLjXEsuvuqAft4QKBgQDoSsiI658jJDsJYCpA6ez00RjJCh7mqOR4\nckUlaCyhyNK0bZ6stn0GMKJAwOu1GpdZ5ksj3/ZETIG+xg6GoH/XcdpQS6aUsGst\nvg3rG4oV0yNipuK0bTxIoPu45ZY4QSeSM04wfhodPt+Kko1Rt/HLM/boDfGCKmwc\nPYtuYd8vfQKBgFRRYFXB12aT7LYArTcbn4xnUbYEScrdmLr+0UPCh9hdX8fpZC+L\nvLens4mADDV9LbqwnG6QiGnRUf9Lyu3/49Mqyzu766daXCITXCBC0e63avkowKh1\nsVNGsZB2ZwOTvPGLK+QwZq4cGvMyAVqHGJbT3yISXZz6F20kJXIBmYXBAoGBAIpg\n6l9uhcmIbsbiC6nJ8MfSvEIfDlN4L0p1QC3NhjEGkka7urfGqmoClNWgV4n2gk0i\nvIZth6YeMXh1Qff/KsksYNJOjriq8943BtGVAUiJE95T7l9vZ2cYx3vZAQkX/zu/\n5odKx8G+T6qcLSWOP7M+jIqmq8VQAkE8hJBIK419AoGAU/slp59Oo+pfxgFCx4cJ\nMJ+HFyJNv3wfDRlolHee/u6z4Pm8h+HxXq/FfpoLYDsEKLiBy5X9wYcKG8Zi3Xum\nQspI8/BYkhxp2SvyxhkQgpXuizTsiJXSChAHGMr+0VSRgfBzIBjEgTNil064tHqr\n8+wd9WLN4mXjK70PvEzGU5Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ruuhvoiceservice@ruuhvoicebot.iam.gserviceaccount.com",
+  "client_id": "108204335572728803950",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ruuhvoiceservice%40ruuhvoicebot.iam.gserviceaccount.com"
+}

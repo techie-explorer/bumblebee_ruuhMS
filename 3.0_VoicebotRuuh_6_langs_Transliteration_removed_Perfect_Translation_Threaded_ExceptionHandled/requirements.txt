@@ -1,0 +1,12 @@
+gtts
+speech_recognition
+fbchat
+googletrans
+googletrans
+pywin32
+pypiwin32
+google
+google-cloud
+google-cloud-translate
+google-cloud-speech
+pyaudio

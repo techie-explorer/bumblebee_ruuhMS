@@ -1,0 +1,11 @@
+import cv2
+from playsound import playsound
+camera = cv2.VideoCapture(0)
+#playsound("siri_start.mp3", True)
+for i in range(10):
+    return_value, image = camera.read()
+    if(i==5):
+        playsound("camera_start.mp3", True)
+        cv2.imwrite('opencv'+str(i)+'.png', image)
+        playsound("camera_end.mp3", True)
+del(camera)

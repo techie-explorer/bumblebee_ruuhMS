@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28407.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RuuhVoiceBotProject", "RuuhVoiceBotProject.pyproj", "{9931F6C4-D9CE-4CBA-89FB-273619C1AEBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9931F6C4-D9CE-4CBA-89FB-273619C1AEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9931F6C4-D9CE-4CBA-89FB-273619C1AEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89782D5C-1957-4B0C-BE19-9E65131B6FBF}
+	EndGlobalSection
+EndGlobal
