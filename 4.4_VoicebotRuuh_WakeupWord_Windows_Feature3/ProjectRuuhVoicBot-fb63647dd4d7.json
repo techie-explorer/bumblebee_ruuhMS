@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "projectruuhvoicbot",
+  "private_key_id": "fb63647dd4d7ca53cfff0bd955bab92a4db21574",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDG2IQ8mXxTJ0MD\nHX3sO0RlYI2yUQvc6kVeSyMsSfYSQK1yM2nNOzk7lwPeVZdCeBUonn+Y51R6Fzhv\nkaWh5PS1DSlDypwdQKuAiIF/wsy3xnS/x/QqFgW1iMIKc+j8ZVAWly0+jM3pKz/e\nVHrXoEN14v3HnulBQ3JubzXhpjrKydf+ipS4LjivNwSdDRxqlnFI1ZBJCmKB0GU+\nkgVJxbrN4iploRp63um5qrYp3atl6/trxA0M9fvl46T2EHzd8s17tyl/lCJVnPwk\nraqi6lLEfKMnzvpk69oPAOsZaHJBvSPc7JVSNRmFVizPhq8MdinEBVZoxvWyeli8\nhpKPesMPAgMBAAECggEAP/PnI+5hdAUOonPbyhyNtOVG7XDvlc+rG9aiq13mTJyM\nrEwo3R8NG0NItTtl+LTSaUwA0dak7teFCS0Yzmbq5UgkW29Qon/oKOC+da7bVMf5\nSK0wtFB86ZPghKge6P5Usc9Rd+qlVzbXxdP55lvfFo04/fj4IEtnBGm0NKzX/9w1\nuuVhyEymca4mqk4dR/wDoyWic5IIqrMUpA4LRD96VWF5gzEETMZoqFjoPzRZjLpe\n0bRK1AABm4ky3sNvgGmpLxBnjsVuanpmdzHsHQQ5jPruA9Cmbo38yG0vJ9F9axY6\nGCGt/P5cbWSPqKckd2VPmOyfKe1VVSAxrHWI4TZjAQKBgQDv3fbNYNfZHgdamcg2\nxLqB9lsvhPFRS+2j+regyj2C53z5e7it4mXEYpPF3oio7DufaQiiyUMA6cTm6IBd\nnE+XX49p1vmVhwPRuDSgY+or6myJdYNT4rkTzm+OA+LZvmOE8iXN/O+J7r+kFQIx\n6jgfuZuMMGUYp/Hcy7PNtvwSzwKBgQDUOD9Jixh+7CXSeb/1e/dW4j1Kq80hq7Lp\nA+MlPddHEj4MQDsRQ9Xxfp2sD2yDkUazQxbKVKsQ/3Ao9PofpZqkQnd80g5UW0GJ\nn77uz3pNjn0UrvvgbWZ/V7FofRC+CQa5+P1C5FDKTUp3kIiOWW7/TSMgivb4C/8P\n0JMo129bwQKBgGJFi/HEtWoMdXLXAkH+A3NvXRhw3PUzqF7APy8u7FiPQpJr79O9\np3f38xbj/xVGA39h5tnanwrmu3bm1oCDo9AepID2RDbQo+3uDBGSHcR0PJdsf6uE\nfdLxhp6mVPBkoh07n+VutSzLldRBjy6oCOpmfqXGxgR9+gc9paKoT0ndAoGBALx1\nQsZ1johP/3p9AhnnP4vZl2JzVNQ83MGO4S1WUJHdwlowxAOeASTXMv/0JoJkBav1\nvQxqygtrO9gzTNfDwaNzHxcqlu0UqQulX/JFL7AmBC/VAPqZTHdzkalfvvlznJSU\nZ5v6k0BECQhKwunew/JWNwaUQaOfS59osvaG8m5BAoGAVlma1ro38Cw7rIDpN4l8\n/GzVtOpEXPsOTgnDv54vsX1/Go2dd5KMs93tVHbI5OvxSsoiEO57XfNpPXgxRzAk\nNfjcWkMnzd2vIAlT/2InpnR3Nm7ln40YPScwcBlJrttFCJHUCdsBytIHP2MHsWTG\no7n3Z81tH4HAwKyyHOA1Sbc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "projectruuhvoicebotservice@projectruuhvoicbot.iam.gserviceaccount.com",
+  "client_id": "109609915315025110073",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/projectruuhvoicebotservice%40projectruuhvoicbot.iam.gserviceaccount.com"
+}

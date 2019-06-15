@@ -1,0 +1,10 @@
+1. blind person ki surroundings lo em unnaayoo cheppadam
+2. entertainer (frnd unlike digital assistants)
+3. kids, locals and old people can also enjoy interacting with it because she can speak 
+   in all Indian regional languages including most of the world languages.
+4. can be your personal security assistant
+5. different skills can be made and she can be integrated with the latest technologies like   
+   IoT, cloud computing, computer vision, search engine, etc.
+
+
+python porcupine_demo.py --keyword_file_paths bumblebee_windows.ppn
