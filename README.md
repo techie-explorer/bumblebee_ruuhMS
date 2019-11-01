@@ -1,8 +1,3 @@
-# bumblebee_ruuhMS
-Bumblebee - The Ruuh Voice Bot
- link for the trained file - should be placed in 4.5 version folder - https://1drv.ms/u/s!AixnQNOqpoHageACnRUGbX6q9xz5FQ?e=hAPq5A
-
-
 		RUUH VOICE BOT
 
 Welcome to the new face of Microsoft's Ruuh Voice Bot.
@@ -55,5 +50,5 @@ Developers:
 Iftekharuddin Mohammed and Rajyalakshmi Kattoju
 
 Contact:
-Iftekharuddin: farhan_mohammed98@outlook.com - +91 8555 016 575
-Rajyalakshmi: rajyalakshmikattoju@gmail.com - +91 6300 716 676
+Iftekharuddin: farhan_mohammed98@outlook.com
+Rajyalakshmi: rajyalakshmikattoju@gmail.com
